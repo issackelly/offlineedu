@@ -1,0 +1,11 @@
+psycopg2
+django
+jupyter
+ipython
+ipdb
+requests
+structlog
+
+# apt requirements
+# youtube-dl
+# postgresql
